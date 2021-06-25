@@ -76,7 +76,7 @@ Before running the app in Debug mode do check that you have an active AVM/Emulat
 
 
   
-## Authors
+## APK
 
 - [Analyzzer](https://drive.google.com/file/d/1eaHU2FyBN1k5Dblk9aU3GCV2Awy2XeRs/view?usp=sharing)
 
